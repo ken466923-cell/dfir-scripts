@@ -1,10 +1,4 @@
-# DFIR Scripts Collection
-
-**Author:** Kennedy Githiga  
-**Role:** Cybersecurity & Digital Forensics Student  
-**Hardware:** HP EliteBook 840 G3 (Core i5, 8GB RAM, 256GB SSD)
-
-## Scripts in This Repository
+Scripts in This Repository
 
 | Script | What It Does |
 |--------|---------------|
